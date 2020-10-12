@@ -1,3 +1,3 @@
-# dev_connector
+# social_network
 
 A MERN stack app 
